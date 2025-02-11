@@ -1,0 +1,34 @@
+
+body{
+	background-color: #ffe6f2;
+	font-family: verdana;
+}
+
+form{
+	padding: 30px;
+	text-align: center;
+}
+
+.container{
+	margin-top: 6%;
+	background-color: white;
+	padding: 30px;
+	border-radius: 15px;
+	border: solid black 2px;
+	box-shadow: 10px 10px 57px -27px rgba(0,0,0,0.25);
+	color: #333333;
+}
+
+.footer{
+	color: black;
+	bottom: 0;
+	text-align: center;
+}
+
+.footer a{
+	color: black;
+}
+
+.footer a:hover{
+	color: darkgrey;
+}
